@@ -1,4 +1,6 @@
+Alpha 
 # Dynamictales
 Dynamic story teller
-Run the gui_main.py file:
-    python gui_main.py
+open cmd propmt
+nav to folder with Dymaictales
+run python gui_main.py
